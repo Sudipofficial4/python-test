@@ -8,7 +8,7 @@
 min-height: 100vh;
 width:100%;
 background-color:lightblue;
-background-image:url("giphy.gif");
+background-image:url("letters.gif");
 background-size:cover;
 background-position:center;
 background-repeat:no-repeat;
@@ -24,7 +24,7 @@ nav{
     color:blue;
 }
 .logo{
-    width:130px;
+    width:50px;
     
 }
 nav ul {
@@ -42,4 +42,13 @@ nav ul li a{
     display:block;
     margin:2px;
     padding:10px;
+}
+h1{
+    color:blue;
+    text-size-adjust:60px;
+}
+form{
+    color:aqua;
+    justify-content:butt;
+    font-size:30px;
 }
